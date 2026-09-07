@@ -1,0 +1,28 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+*.a
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
+echo "# InterviewDsa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vishal-033/InterviewDsa.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Vishal-033/InterviewDsa.git
+git branch -M main
+git push -u origin main
