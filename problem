@@ -1,0 +1,82 @@
+Agar tumhara goal companies (Amazon, Microsoft, Google, Adobe, Walmart, Flipkart, etc.) ke interviews aur LeetCode Linked List questions crack karna hai, to ye roadmap follow karo.
+
+Phase 1: Linked List Basics (Must Know)
+
+Pehle in operations ko bina dekhe code kar pao:
+
+Create a Linked List
+Traverse / Print
+Insert at Beginning
+Insert at End
+Insert at Position
+Delete from Beginning
+Delete from End
+Delete at Position
+Search an Element
+Find Length
+Reverse Linked List (Very Important)
+Phase 2: Most Asked LeetCode Linked List Problems
+
+Easy se start karo:
+
+206. Reverse Linked List ⭐⭐⭐⭐⭐
+21. Merge Two Sorted Lists
+83. Remove Duplicates from Sorted List
+203. Remove Linked List Elements
+141. Linked List Cycle ⭐⭐⭐⭐⭐
+876. Middle of the Linked List ⭐⭐⭐⭐⭐
+160. Intersection of Two Linked Lists
+234. Palindrome Linked List ⭐⭐⭐⭐
+Phase 3: Medium Level (Frequently Asked)
+19. Remove Nth Node From End
+24. Swap Nodes in Pairs
+92. Reverse Linked List II
+143. Reorder List
+328. Odd Even Linked List
+61. Rotate List
+2. Add Two Numbers
+445. Add Two Numbers II
+Phase 4: Hard / Interview Favorites
+25. Reverse Nodes in k-Group ⭐⭐⭐⭐⭐
+23. Merge k Sorted Lists
+138. Copy List with Random Pointer
+146. LRU Cache (Linked List + Hash Map)
+430. Flatten a Multilevel Doubly Linked List
+Patterns Jo Har Company Puchti Hai
+
+Har Linked List question inhi patterns par based hota hai:
+
+✅ Traversal
+✅ Two Pointers (Slow & Fast)
+✅ Reverse
+✅ Dummy Node
+✅ Merge
+✅ Cycle Detection
+✅ Pointer Manipulation
+
+Agar ye 7 patterns strong ho gaye, to 80–90% Linked List questions handle kar paoge.
+
+15 Questions ki Best Order
+Reverse Linked List
+Middle of Linked List
+Linked List Cycle
+Merge Two Sorted Lists
+Remove Duplicates
+Remove Elements
+Intersection of Two Linked Lists
+Palindrome Linked List
+Remove Nth Node From End
+Reverse Linked List II
+Swap Nodes in Pairs
+Odd Even Linked List
+Reorder List
+Add Two Numbers
+Reverse Nodes in k-Group
+Meri recommendation
+
+Har question solve karte waqt ye 4 cheezein likho:
+
+Dry run on paper (pointer kahan move ho raha hai?)
+Draw the linked list (1 -> 2 -> 3 -> NULL)
+Time Complexity
+Space Complexity
